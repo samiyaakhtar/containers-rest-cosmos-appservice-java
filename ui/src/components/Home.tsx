@@ -30,8 +30,6 @@ export class Home extends React.Component<IHomeProps, IHomeState> {
                 the project imports historical movie data from IMDb.
                 See <a href='https://datasets.imdbws.com/'> here for downloadable IMDB datasets</a>.
                 The datasets include 8.9 million people, 5.3 million movies and 30 million relationships between them.
-
-                This is a test message.
                 <br />
                 <br />
 
